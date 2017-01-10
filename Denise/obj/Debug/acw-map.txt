@@ -1,0 +1,4 @@
+Denise.MainActivity, Denise;md5a8e01ebe9e4e9dc3dc6e2681b7dab863.MainActivity
+Denise.MainActivity, Denise, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a8e01ebe9e4e9dc3dc6e2681b7dab863.MainActivity
+Denise.MainActivity;md5a8e01ebe9e4e9dc3dc6e2681b7dab863.MainActivity
+denise.MainActivity;md5a8e01ebe9e4e9dc3dc6e2681b7dab863.MainActivity
