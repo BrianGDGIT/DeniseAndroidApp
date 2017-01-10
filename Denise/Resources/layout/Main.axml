@@ -12,7 +12,6 @@
         android:id="@+id/TextView1"
         android:text="Hi baby. I missed you." />
     <ImageView
-        android:src="@android:drawable/ic_menu_gallery"
         android:layout_width="match_parent"
         android:layout_height="400dp"
         android:id="@+id/ImageView1"

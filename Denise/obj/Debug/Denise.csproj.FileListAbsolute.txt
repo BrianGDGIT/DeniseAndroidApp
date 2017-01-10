@@ -2,7 +2,6 @@ F:\Programming Projects\Denise\Denise\bin\Debug\Denise.dll
 F:\Programming Projects\Denise\Denise\bin\Debug\Denise.pdb
 F:\Programming Projects\Denise\Denise\bin\Debug\Denise.Denise.apk
 F:\Programming Projects\Denise\Denise\bin\Debug\Denise.Denise-Signed.apk
-F:\Programming Projects\Denise\Denise\obj\Debug\Denise.csprojResolveAssemblyReference.cache
 F:\Programming Projects\Denise\Denise\obj\Debug\Denise.dll
 F:\Programming Projects\Denise\Denise\obj\Debug\Denise.pdb
 F:\Programming Projects\Denise\Denise\obj\Debug\android\bin\Denise.Denise.apk
@@ -11,6 +10,16 @@ F:\Programming Projects\Denise\Denise\obj\Debug\res\values\strings.xml
 F:\Programming Projects\Denise\Denise\obj\Debug\res\drawable\icon.png
 F:\Programming Projects\Denise\Denise\obj\Debug\R.cs.flag
 F:\Programming Projects\Denise\Denise\obj\Debug\uploadflags.txt
+F:\Programming Projects\Denise\Denise\obj\Debug\res\drawable\image1.jpg
+F:\Programming Projects\Denise\Denise\obj\Debug\res\drawable\image2.jpg
+F:\Programming Projects\Denise\Denise\obj\Debug\res\drawable\image3.jpg
+F:\Programming Projects\Denise\Denise\obj\Debug\res\drawable\image5.jpg
+F:\Programming Projects\Denise\Denise\obj\Debug\res\drawable\image6.jpg
+F:\Programming Projects\Denise\Denise\obj\Debug\res\drawable\image7.jpg
+F:\Programming Projects\Denise\Denise\obj\Debug\res\drawable\image9.jpg
+F:\Programming Projects\Denise\Denise\obj\Debug\res\drawable\image8.jpg
+F:\Programming Projects\Denise\Denise\obj\Debug\res\drawable\image10.jpg
+F:\Programming Projects\Denise\Denise\obj\Debug\res\drawable\love.png
 F:\Programming Projects\Denise\Denise\bin\Debug\Denise.dll.mdb
 F:\Programming Projects\Denise\Denise\bin\Debug\Java.Interop.dll.mdb
 F:\Programming Projects\Denise\Denise\bin\Debug\Mono.Android.dll.mdb
@@ -35,12 +44,5 @@ F:\Programming Projects\Denise\Denise\obj\Debug\android\assets\System.Runtime.Se
 F:\Programming Projects\Denise\Denise\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
 F:\Programming Projects\Denise\Denise\obj\Debug\android\assets\System.Xml.dll.mdb
 F:\Programming Projects\Denise\Denise\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
-F:\Programming Projects\Denise\Denise\obj\Debug\res\drawable\image1.jpg
-F:\Programming Projects\Denise\Denise\obj\Debug\res\drawable\image2.jpg
-F:\Programming Projects\Denise\Denise\obj\Debug\res\drawable\image3.jpg
-F:\Programming Projects\Denise\Denise\obj\Debug\res\drawable\image4.jpg
-F:\Programming Projects\Denise\Denise\obj\Debug\res\drawable\image5.jpg
-F:\Programming Projects\Denise\Denise\obj\Debug\res\drawable\image6.jpg
-F:\Programming Projects\Denise\Denise\obj\Debug\res\drawable\image7.jpg
 F:\Programming Projects\Denise\Denise\obj\Debug\Denise.dll.mdb
 F:\Programming Projects\Denise\Denise\bin\Debug\Denise.dll.mdb
